@@ -88,7 +88,7 @@ Watch or star this repository to follow along.
 
 ## Who's behind it
 
-Created by [Fahad](https://github.com/fahad-m-nasim), a data engineer in Sydney, and maintained by
+Created by [Fahad](https://github.com/fahad-m-nasim), a data engineer, and maintained by
 **Greenvale IT Solutions Pty Ltd**. Want DataHighland set up or run for you? Get in touch through
 [datahighland.dev](https://datahighland.dev).
 
